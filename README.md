@@ -317,7 +317,7 @@ By analyzing **area, production, and yield** across crops, states, districts, an
 
 ## 👨‍💻 Author
 
-**Meghan Gowda B Y**
+**Shreya S S**
 
 ---
 
